@@ -51,7 +51,7 @@ global.APIKeys = {
 
 
 //────────────────────────────
-global.imagen1 = ['./media/333.jpg']
+global.imagen1 = ['./icone/admin.png']
 global.imagen4 = fs.readFileSync('./333.png')
 //────────────────────────────
 
