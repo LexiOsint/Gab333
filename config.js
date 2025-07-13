@@ -8,7 +8,7 @@ global.confirmCode = "lexionregna"
 
 global.owner = [
     ['393515112665', 'Proprietario', true ],
-    ['27628765191', 'Secondo Proprietario' true ],
+    ['27628765191', 'Proprietario' true ],
      
 ] //Numero degli owner
 
