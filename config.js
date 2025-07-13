@@ -3,11 +3,13 @@ import chalk from 'chalk'
 import fs from 'fs'
 import { fileURLToPath } from 'url'
 
-global.botnumber = "" //Inserisci nelle apici il numero del bot (es. +393762030481)
-global.confirmCode = ""
+global.botnumber = "27628765191" //Inserisci nelle apici il numero del bot (es. +393762030481)
+global.confirmCode = "lexionregna"
 
 global.owner = [
-    ['393509368693', 'Proprietario', true ],
+    ['393515112665', 'Proprietario', true ],
+    ['27628765191', 'Secondo Proprietario' true ],
+     
 ] //Numero degli owner
 
 //────────────────────────────
@@ -54,20 +56,20 @@ global.imagen4 = fs.readFileSync('./333.png')
 //────────────────────────────
 
 // Sticker WM (Nome del pacchetto degli sticker)
-global.packname = ' ꙰ 𝟥𝟥𝟥 ꙰ 𝔹𝕆𝕋 ꙰ '
+global.packname = ' lexion regna '
 global.author = '𝐌𝐝'
 
 //────────────────────────────
 
 global.vs = 'Finale'
 
-global.nomebot = ' ꙰ 𝟥𝟥𝟥 ꙰ 𝔹𝕆𝕋 ꙰ '
+global.nomebot = ' L̴̨̢̛̹̯̦͔̲̦͔̖͎̈́e̸̤͓̩̣̻̤̻͐̈́̎̇̄̂́̔̾̽͂͜͝͝x̸̨̼̱̮̒͌̀̈́͐̊̋͋̋͑̆̋͠i̸̡̨̢̝̙͈̜͚̪͙̺̦̳̥̙̅͗͛́̌͠ȏ̸̙̞̜̝͍̝̟͈̮̤̜͛͋̐̔̅̚͘ń̵͉̹̻̃͐̀̇̑̐͛̚ '
 
 global.multiplier = 69 
 global.maxwarn = '4' 
 //────────────────────────────
 
-global.wm = ' ꙰ 𝟥𝟥𝟥 ꙰ 𝔹𝕆𝕋 ꙰ '
+global.wm = ' lexion regna '
 global.wait = 'ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ...'
 
 //────────────────────────────
